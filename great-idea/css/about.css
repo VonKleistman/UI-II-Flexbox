@@ -1,0 +1,14 @@
+.descriptionWrapper {
+    padding-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    height: 800px;
+    justify-content: space-between;
+}
+
+.description {
+    width: 400px;
+    border: 1px solid black;
+    margin-bottom: 32px;
+    padding: 30px;
+}

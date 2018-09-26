@@ -40,6 +40,13 @@ h1, h2, h3, h4, h5 {
     align-content: space-around;
 }
 
+@media screen and (max-width: 875px){
+    .centerContent {
+        width: 550px;
+        height: 1600px;
+    }
+}
+
 .contentBox button{
     width: 128px;
     height: 32px;
