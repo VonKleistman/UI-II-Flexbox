@@ -64,10 +64,6 @@ footer .contact {
 	text-align: center;
 }
 
-a:hover {
-	color: black;
-}
-
 .gettingStarted button:hover {
 	animation-name: startbutton;
 	animation-duration: 1s;

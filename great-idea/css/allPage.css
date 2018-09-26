@@ -88,6 +88,10 @@ header nav a {
     color: lightgray;
 }
 
+a:hover {
+	color: black;
+}
+
 .navdeco {
 	width: 100%;
 	position: fixed;
